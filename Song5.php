@@ -45,102 +45,93 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>Ikaw Ang Pahinga Ko</h2>";
-                        echo "<p class='lead '>Cacai Colmenar</p>";
+                        echo "<h2 class='text-primary'>Marupok</h2>";
+                        echo "<p class='lead '>Kyle Antang</p>";
                         echo "<br/>";
 
                         //1st stanza
+                        echo "<br/>";
                         echo "<p> I:</p>";
-                        echo "<p> Nagsimula lahat dahil sayong kaarawan</p>";
-                        echo "<p> Hindi inaasahang Maisasayaw sa harapan</p>";
-                        echo "<p> Galit na galit ka pa, pero aminin mo</p>";
-                        echo "<p> Ginusto mo naman</p>";
+                        echo "<p> Ang sabi ko ayaw ko ng taga Ateneo</p>";
+                        echo "<p> Bakit ganun kinain ko din lahat ng sinabi ko</p>";
+                        echo "<p> Nakaupo ako nun sa waiting shed</p>";
+                        echo "<p> Nakita kita may hawak na shake</p>";
+                        echo "<p> Tapos yung puso ko alam mo ba? </p>";
+                        echo "<p> Bigla na lang nagshake</p>";
+
+
+                        echo "<br/>";
+                        echo "<p> Biglang umulan sa España</p>";
+                        echo "<p> Sabi mo wala kang payong</p>";
+                        echo "<p> Ewan ko sayo oh oh </p>";
+                        echo "<p> Di ko naman tinanong</p>";
+
 
                         echo "<br/>";
 
+
+                        //Refrain
+                        echo "<br/>";
+                        echo "<p> Refrain:</p>";
+                        echo "<p> I'm in danger at this moment because I know that you're my BET</p>";
+                        echo "<p> I thought is just a simple like</p>";
+                        echo "<p> But I realized that you're just my type</p>";
+
+                        echo "<br/>";  
+                    
                         
+                        //Chorus
+                        echo "<br/>";
+                        echo "<p> Chorus:</p>";
+                        echo "<p> Tingin ko nadala ka sa'king mga banat</p>";
+                        echo "<p> 'Pag kinikilig ka para kang may sinat</p>";
+                        echo "<p> 'Pag nagsimula ang chat Hala, parehas tayong puyat</p>";
+
+                        echo "<br/>";
+
+                        echo "<p> Kapag kasama kita, Ako'y kontento na</p>";
+                        echo "<p> Lalo kapag naririnig ang 'Gusto kita'</p>";
+                        echo "<p> Oo kinikilig ako pero bakit ko ipapahalata?</p>";
+                        echo "<p> Marupok ako aaminin ko pero mas marupok pa din ang attorney ko</p>";                       
+                        echo "<br/>";
+
                         //2nd stanza
+                        echo "<br/>";
                         echo "<p> II:</p>";
-                        echo "<p> Tuwang tuwa ako kapag ikay inaasar</p>";
-                        echo "<p> Pinipilosopo ang bawat salitang binabagsak</p>";
-                        echo "<p> Katulad ng</p>";
-                        echo "<p> 'What? Watawat'</p>";
-                        echo "<p> 'Ha?hattitude ka ghorl'</p>";
+                        echo "<p> Nagtanong ako ang ang  ko'y 'Are you a CA?'</p>";
+                        echo "<p> Bakit ganun? totoo namang malakas appeal mo</p>";
+                        echo "<p> Mabye you're tired from driving me crazy</p>";
+                        echo "<p> I want you to be the father of my baby</p>";
+                        echo "<p> Tapos reply mo bakit ganun? parang wala lang </p>";
 
                         echo "<br/>";
 
+                        //Refrain
+                        echo "<br/>";
+                        echo "<p> Refrain:</p>";
+                        echo "<p> I'm in danger at this moment because I know that you're my BET</p>";
+                        echo "<p> I thought is just a simple like</p>";
+                        echo "<p> But I realized that you're just my type</p>";
+
+                        echo "<br/>";  
+                    
+                        
                         //Chorus
                         echo "<br/>";
                         echo "<p> Chorus:</p>";
-                        echo "<p> 'Di inakalang magkakasundo </p>";
-                        echo "<p> Ikaw pala ang Pahinga ko </p>";
-                        echo "<p> Ooh</p>";
-                        echo "<br/>";
+                        echo "<p> Tingin ko nadala ka sa'king mga banat</p>";
+                        echo "<p> 'Pag kinikilig ka para kang may sinat</p>";
+                        echo "<p> 'Pag nagsimula ang chat Hala, parehas tayong puyat</p>";
 
-                        echo "<p> Madalas kumain ng sabay sa umaga </p>";
-                        echo "<p> Minsan magaway parang aso at Pusa</p>";
-                        echo "<p> Aah aah</p>";
-                        echo "<br/>";
-
-                        echo "<p> Pero kahit ganun</p>";
-                        echo "<p> Ikaw parin ang Bibe ko</p>";
-
-                        echo "<br/>";
-
-                        echo "<p> Ooh</p>";
-
-                        echo "<br/>";
-
-
-                        echo "<p> Sinusuportahan ang bawat isa</p>";
-                        echo "<p> Tumatalon, Sumisigaw sa tuwa</p>";
-                        echo "<p> Aah aah</p>";
-                        echo "<p> Di magbabago</p>";
-                        echo "<p> Ikaw ang pahinga ko</p>";
-                        echo "<br/>";
                         
-                        //3rd stanza
-                        echo "<br/>";
-                        echo "<p> III:</p>";
-                        echo "<p> Bawat kilos ko sadyang ikaw naaalala ko </p>";
-                        echo "<p> Nawawala ang pagod pag ikaw ng ang kausap ko</p>";
-                        echo "<p> Bakit ganon?</p>";
-                        echo "<p> Hulog na hulog sayo</p>";
-
                         echo "<br/>";
 
+                        echo "<p> Kapag kasama kita, Ako'y kontento na</p>";
+                        echo "<p> Lalo kapag naririnig ang 'Mahal kita'</p>";
+                        echo "<p> Oo kinikilig ako pero bakit ko ipapahalata?</p>";
+                        echo "<p> Marupok ang attorney ko pero mas marupok pa din pala ako</p>";                       
 
-                        //Chorus
-                        echo "<br/>";
-                        echo "<p> Chorus:</p>";
-                        echo "<p> 'Di inakalang magkakasundo </p>";
-                        echo "<p> Ikaw pala ang Pahinga ko </p>";
-                        echo "<p> Ooh</p>";
-                        echo "<br/>";
-
-                        echo "<p> Madalas kumain ng sabay sa umaga </p>";
-                        echo "<p> Minsan magaway parang aso at Pusa</p>";
-                        echo "<p> Aah aah</p>";
-                        echo "<br/>";
-
-                        echo "<p> Pero kahit ganun</p>";
-                        echo "<p> Ikaw parin ang Bibe ko</p>";
-
-                        echo "<br/>";
-
-                        echo "<p> Ooh</p>";
-                        echo "<p> Sinusuportahan ang bawat isa</p>";
-                        echo "<p> Tumatalon, Sumisigaw sa tuwa</p>";
-                        echo "<p> Aah aah</p>";
-                        echo "<p> Di magbabago</p>";
-                        echo "<p> Ikaw ang pahinga ko</p>";
-                        echo "<br/>";
-
-                        //bridge
-                        echo "<br/>";
-                        echo "<p> Pangako sayo</p>";
-                        echo "<p> Ikaw ang pahinga ko</p>";
-                        
+                                              
                         echo "<br/>";
 
                         ?>
